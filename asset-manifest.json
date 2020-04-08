@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SentecCertificate/static/css/main.ddc95282.chunk.css",
-    "main.js": "/SentecCertificate/static/js/main.8169557e.chunk.js",
-    "main.js.map": "/SentecCertificate/static/js/main.8169557e.chunk.js.map",
+    "main.js": "/SentecCertificate/static/js/main.bc61ab4c.chunk.js",
+    "main.js.map": "/SentecCertificate/static/js/main.bc61ab4c.chunk.js.map",
     "runtime-main.js": "/SentecCertificate/static/js/runtime-main.6f92d2fa.js",
     "runtime-main.js.map": "/SentecCertificate/static/js/runtime-main.6f92d2fa.js.map",
     "static/js/2.2674fcff.chunk.js": "/SentecCertificate/static/js/2.2674fcff.chunk.js",
     "static/js/2.2674fcff.chunk.js.map": "/SentecCertificate/static/js/2.2674fcff.chunk.js.map",
     "index.html": "/SentecCertificate/index.html",
-    "precache-manifest.b4bf0a5e984414b0c23cd361c014d4d0.js": "/SentecCertificate/precache-manifest.b4bf0a5e984414b0c23cd361c014d4d0.js",
+    "precache-manifest.b933a60d828b21199e3742783b5c8487.js": "/SentecCertificate/precache-manifest.b933a60d828b21199e3742783b5c8487.js",
     "service-worker.js": "/SentecCertificate/service-worker.js",
     "static/css/main.ddc95282.chunk.css.map": "/SentecCertificate/static/css/main.ddc95282.chunk.css.map",
     "static/js/2.2674fcff.chunk.js.LICENSE.txt": "/SentecCertificate/static/js/2.2674fcff.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.6f92d2fa.js",
     "static/js/2.2674fcff.chunk.js",
     "static/css/main.ddc95282.chunk.css",
-    "static/js/main.8169557e.chunk.js"
+    "static/js/main.bc61ab4c.chunk.js"
   ]
 }
