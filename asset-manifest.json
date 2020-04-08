@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/SentecCertificate/static/css/main.75963925.chunk.css",
-    "main.js": "/SentecCertificate/static/js/main.c8d4fcbc.chunk.js",
-    "main.js.map": "/SentecCertificate/static/js/main.c8d4fcbc.chunk.js.map",
+    "main.css": "/SentecCertificate/static/css/main.ddc95282.chunk.css",
+    "main.js": "/SentecCertificate/static/js/main.351b4415.chunk.js",
+    "main.js.map": "/SentecCertificate/static/js/main.351b4415.chunk.js.map",
     "runtime-main.js": "/SentecCertificate/static/js/runtime-main.6f92d2fa.js",
     "runtime-main.js.map": "/SentecCertificate/static/js/runtime-main.6f92d2fa.js.map",
     "static/js/2.34342c15.chunk.js": "/SentecCertificate/static/js/2.34342c15.chunk.js",
     "static/js/2.34342c15.chunk.js.map": "/SentecCertificate/static/js/2.34342c15.chunk.js.map",
     "index.html": "/SentecCertificate/index.html",
-    "precache-manifest.947a9fe8d886f6dff76d34b092fdf319.js": "/SentecCertificate/precache-manifest.947a9fe8d886f6dff76d34b092fdf319.js",
+    "precache-manifest.d8ce7c58ed44cc039fbf6c24c7539dca.js": "/SentecCertificate/precache-manifest.d8ce7c58ed44cc039fbf6c24c7539dca.js",
     "service-worker.js": "/SentecCertificate/service-worker.js",
-    "static/css/main.75963925.chunk.css.map": "/SentecCertificate/static/css/main.75963925.chunk.css.map",
+    "static/css/main.ddc95282.chunk.css.map": "/SentecCertificate/static/css/main.ddc95282.chunk.css.map",
     "static/js/2.34342c15.chunk.js.LICENSE.txt": "/SentecCertificate/static/js/2.34342c15.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/SentecCertificate/static/media/DancingScript-Regular.c4434ab2.ttf",
     "static/media/logo.svg": "/SentecCertificate/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f92d2fa.js",
     "static/js/2.34342c15.chunk.js",
-    "static/css/main.75963925.chunk.css",
-    "static/js/main.c8d4fcbc.chunk.js"
+    "static/css/main.ddc95282.chunk.css",
+    "static/js/main.351b4415.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a50b63d1f057d2abac607fb7f073c1de",
+    "revision": "ab68a47bcdbb7c2ca32ac69489ba74ff",
     "url": "/SentecCertificate/index.html"
   },
   {
-    "revision": "5807e4727586c1c51c04",
-    "url": "/SentecCertificate/static/css/main.75963925.chunk.css"
+    "revision": "2ea24bbc7759393089b3",
+    "url": "/SentecCertificate/static/css/main.ddc95282.chunk.css"
   },
   {
     "revision": "8651ba2669a14834f607",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SentecCertificate/static/js/2.34342c15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5807e4727586c1c51c04",
-    "url": "/SentecCertificate/static/js/main.c8d4fcbc.chunk.js"
+    "revision": "2ea24bbc7759393089b3",
+    "url": "/SentecCertificate/static/js/main.351b4415.chunk.js"
   },
   {
     "revision": "d66e1182498a7e26796b",
     "url": "/SentecCertificate/static/js/runtime-main.6f92d2fa.js"
+  },
+  {
+    "revision": "c4434ab21f7144bbcf88c9a35ae3f075",
+    "url": "/SentecCertificate/static/media/DancingScript-Regular.c4434ab2.ttf"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
