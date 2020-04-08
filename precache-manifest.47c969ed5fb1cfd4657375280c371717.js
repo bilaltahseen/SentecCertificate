@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e934be53d561ba7ee6e1fbbeca14ff0",
+    "revision": "1f877a60c2a3342f52afc260d07ff412",
     "url": "/SentecCertificate/index.html"
   },
   {
-    "revision": "c3d57c330f611dc67e40",
+    "revision": "3a907f729d707a6c5915",
     "url": "/SentecCertificate/static/css/main.ddc95282.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SentecCertificate/static/js/2.2674fcff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3d57c330f611dc67e40",
-    "url": "/SentecCertificate/static/js/main.bc61ab4c.chunk.js"
+    "revision": "3a907f729d707a6c5915",
+    "url": "/SentecCertificate/static/js/main.bd37cc8d.chunk.js"
   },
   {
     "revision": "d66e1182498a7e26796b",
